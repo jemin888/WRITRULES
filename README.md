@@ -27,6 +27,6 @@ which  is  coming  soon  at  year  2016.
 
 g)  But  if  any  one or  competitors    copy  the  features  of  
 
-our  or   another   technology  and   implement   in   his   
+our  or   another   technology belong  to WSIT field  and   implement   in   his   
 
 technology  is   said   to  illegal  according   to  WSIT  Rules.
