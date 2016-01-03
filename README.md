@@ -30,3 +30,11 @@ g)  But  if  any  one or  competitors    copy  the  features  of
 our  or   another   technology belong  to WSIT field  and   implement   in   his   
 
 technology  is   said   to  illegal  according   to  WSIT  Rules.
+
+h)  If any  one  of  the   copy other source  code and  implement  in  their  technology
+
+is  said   to  void  (eg)  Such  technology  is not considered.
+
+
+
+
