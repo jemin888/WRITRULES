@@ -36,5 +36,39 @@ h)  If any  one  of  the   copy other source  code and  implement  in  their  te
 is  said   to  void  (eg)  Such  technology  is not considered.
 
 
+About  Operating System Design Rules
+-------------------------------------
 
+
+a) One  should  not  copy the  features  of  another os.
+
+for  eg)  One should  not  design  like  windows  7 or  windows  xp or  GALAXYos or sling os.
+
+
+b)  If  he  is  unix   type  he  can  wish  to  design  unix type os.
+
+eg)
+
+  mac is  designed  in  unix.
+
+Linux  is   designed  in unix.
+
+
+d)  One  should    invent  new  ideas  and  should  design   the  new  OS.
+
+e)  OS  is   a huge  project than  Technology  so  Team  is necessary  to do  it.
+
+But  doing  individual  can  take  time.
+
+
+f)  If any one of them copy other OS  source code and implement in their OS
+
+is said to void (eg) Such OS is not considered.
+
+
+g) IF  two  companies  are best friends they  can  combine  and do  the task.
+
+
+
+ 
 
