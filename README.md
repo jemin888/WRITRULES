@@ -1,35 +1,35 @@
-# WSITRULES
+# WRITRULES
 This   is   about   WSIT  Field   Rules   designed  by  wilmix  jemin
 
-ABOUT   WSIT  RULES
+ABOUT   WRIT  RULES
 ----------------------------
 
-a)  WSIT    don't  permit    misuse    of  WSIT    Products    in  other  websites.
+a)  WRIT    don't  permit    misuse    of  WRIT    Products    in  other  websites.
 
-b) So  WSIT  allow  our  friends  to  be    member  of  WSIT    field.
+b) So  WRIT  allow  our  friends  to  be    member  of  WRIT    field.
 
- c)  WSIT    will  not    give    any  projects    to  the    Competitors.
+ c)  WRIT    will  not    give    any  projects    to  the    Competitors.
 
-d)  WSIT  allow  Asians  , Europeans, and  our  Friends    from  U.s  To    be  the 
+d)  WRIT  allow  Asians  , Europeans, and  our  Friends    from  U.s  To    be  the 
 
-member  of  WSIT    field.  We  don't  allow    Competitor  of  Asian  and  American
+member  of  WRIT    field.  We  don't  allow    Competitor  of  Asian  and  American
 
-countries  to  be    the  member  of  WSIT  field.
+countries  to  be    the  member  of  WRIT  field.
 
-e)  WSIT  field  will  follow    Good or  God  rules    and
+e)  WRIT  field  will  follow    Good or  God  rules    and
 
 terminate  such  employee    practising  homosex, Wicked  things, etc.
 
 
-f)  WSIT  field  will    have    the  Internal  and  external  Advanced  Business
+f)  WRIT  field  will    have    the  Internal  and  external  Advanced  Business
 
 which  is  coming  soon  at  year  2016. 
 
 g)  But  if  any  one or  competitors    copy  the  features  of  
 
-our  or   another   technology belong  to WSIT field  and   implement   in   his   
+our  or   another   technology belong  to WRIT field  and   implement   in   his   
 
-technology  is   said   to  illegal  according   to  WSIT  Rules.
+technology  is   said   to  illegal  according   to  WRIT  Rules.
 
 h)  If any  one  of  the   copy other source  code and  implement  in  their  technology
 
