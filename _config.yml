@@ -1,0 +1,8 @@
+title: Wsitrules
+description: This   is   about   WSIT  Field   Rules   designed  by  wilmix  jemin
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
