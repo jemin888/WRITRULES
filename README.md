@@ -25,15 +25,20 @@ f)  WRIT  field  will    have    the  Internal  and  external  Advanced  Busines
 
 which  is  coming  soon  at  year  2016. 
 
-g)  But  if  any  one or  competitors    copy  the  features  of  
 
-our  or   another   technology belong  to WRIT field  and   implement   in   his   
+g) But if any one or competitors copy the features of
 
-technology  is   said   to  illegal  according   to  WRIT  Rules.
+our or another technology belong to WRIT field and implement in his
 
-h)  If any  one  of  the   copy other source  code and  implement  in  their  technology
+technology is said to illegal according to WRIT Rules.
 
-is  said   to  void  (eg)  Such  technology  is not considered.
+
+
+h) If any one of them copy other source code or datastructures or  features   and implement in their technology
+
+is said to void 
+
+(eg) Such technology or Programming Language  is not considered.
 
 
 About  Operating System Design Rules
@@ -42,31 +47,23 @@ About  Operating System Design Rules
 
 a) One  should  not  copy the  features  of  another os.
 
-for  eg)  One should  not  design  like  windows  7 or  windows  xp or  GALAXYos or sling os.
+for  eg)  One should  not  design  like  windows  7 or  windows  xp .
 
 
-b)  If  he  is  unix   type  he  can  wish  to  design  unix type os.
 
-eg)
+b)  One  should    invent  new  ideas  and  should  design   the  new  OS.
 
-  mac is  designed  in  unix.
-
-Linux  is   designed  in unix.
-
-
-d)  One  should    invent  new  ideas  and  should  design   the  new  OS.
-
-e)  OS  is   a huge  project than  Technology  so  Team  is necessary  to do  it.
+c)  OS  is   a huge  project than  Technology  so  Team  is necessary  to do  it.
 
 But  doing  individual  can  take  time.
 
 
-f)  If any one of them copy other OS  source code and implement in their OS
+d)  If any one of them copy other OS  source code and implement in their OS
 
 is said to void (eg) Such OS is not considered.
 
 
-g) IF  two  companies  are best friends they  can  combine  and do  the task.
+e) IF  two  companies  are best friends they  can  combine  and do  the task.
 
 
 
