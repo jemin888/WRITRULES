@@ -1,5 +1,5 @@
 # WRITRULES
-This   is   about   WSIT  Field   Rules   designed  by  wilmix  jemin
+This   is   about   WRIT  Field   Rules   designed  by  wilmix  jemin
 
 ABOUT   WRIT  RULES
 ----------------------------
