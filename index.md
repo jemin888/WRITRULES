@@ -1,42 +1,42 @@
-# WSITRULES
-This   is   about   WSIT  Field   Rules   designed  by  wilmix  jemin
 
-ABOUT   WSIT  RULES
+ABOUT   WRIT  RULES
 ----------------------------
 
-a)  WSIT    don't  permit    misuse    of  WSIT    Products    in  other  websites.
+a)  WRIT    don't  permit    misuse    of  WRIT    Products    in  other  websites.
 
-b) So  WSIT  allow  our  friends  to  be    member  of  WSIT    field.
+b) So  WRIT  allow  our  friends  to  be    member  of  WRIT    field.
 
- c)  WSIT    will  not    give    any  projects    to  the    Competitors.
+ c)  WRIT    will  not    give    any  projects    to  the    Competitors.
 
-d)  WSIT  allow  Asians  , Europeans, and  our  Friends    from  U.s  To    be  the 
+d)  WRIT  allow  Asians  , Europeans, and  our  Friends    from  U.s  To    be  the 
 
-member  of  WSIT    field.  We  don't  allow    Competitor  of  Asian  and  American
+member  of  WRIT    field.  We  don't  allow    Competitor  of  Asian  and  American
 
-countries  to  be    the  member  of  WSIT  field.
+countries  to  be    the  member  of  WRIT  field.
 
-e)  WSIT  field  will  follow    Good or  God  rules    and
+e)  WRIT  field  will  follow    Good or  God  rules    and
 
 terminate  such  employee    practising  homosex, Wicked  things, etc.
 
 
-f)  WSIT  field  will    have    the  Internal  and  external  Advanced  Business
+f)  WRIT  field  will    have    the  Internal  and  external  Advanced  Business
 
 which  is  coming  soon  at  year  2016. 
 
-g)  But  if  any  one or  competitors    copy  the  features  of  
 
-our  or   another   technology belong  to WSIT field  and   implement   in   his   
+g) But if any one or competitors copy the features of
 
-technology  is   said   to  illegal  according   to  WSIT  Rules.
+our or another technology belong to WRIT field and implement in his
 
-h)  If any  one  of  the   copy other source  code and  implement  in  their  technology
-
-is  said   to  void  (eg)  Such  technology  is not considered.
+technology is said to illegal according to WRIT Rules.
 
 
 
+h) If any one of them copy other source code or datastructures or  features   and implement in their technology
+
+is said to void 
+
+(eg) Such technology or Programming Language  is not considered.
 
 
 About  Operating System Design Rules
@@ -45,31 +45,23 @@ About  Operating System Design Rules
 
 a) One  should  not  copy the  features  of  another os.
 
-for  eg)  One should  not  design  like  windows  7 or  windows  xp or  GALAXYos or sling os.
+for  eg)  One should  not  design  like  windows  7 or  windows  xp .
 
 
-b)  If  he  is  unix   type  he  can  wish  to  design  unix type os.
 
-eg)
+b)  One  should    invent  new  ideas  and  should  design   the  new  OS.
 
-  mac is  designed  in  unix.
-
-Linux  is   designed  in unix.
-
-
-d)  One  should    invent  new  ideas  and  should  design   the  new  OS.
-
-e)  OS  is   a huge  project than  Technology  so  Team  is necessary  to do  it.
+c)  OS  is   a huge  project than  Technology  so  Team  is necessary  to do  it.
 
 But  doing  individual  can  take  time.
 
 
-f)  If any one of them copy other OS  source code and implement in their OS
+d)  If any one of them copy other OS  source code and implement in their OS
 
 is said to void (eg) Such OS is not considered.
 
 
-g) IF  two  companies  are best friends they  can  combine  and do  the task.
+e) IF  two  companies  are best friends they  can  combine  and do  the task.
 
 
 
